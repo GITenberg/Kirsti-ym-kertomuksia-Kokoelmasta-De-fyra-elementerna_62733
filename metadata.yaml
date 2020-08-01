@@ -1,0 +1,40 @@
+_repo: Kirsti-ym-kertomuksia-Kokoelmasta-De-fyra-elementerna_62733
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Karilas, Siiri
+    gutenberg_agent_id: '52095'
+    url: http://www.gutenberg.org/2009/agents/52095
+creator:
+  author:
+    agent_name: Hallström, Per
+    aliases:
+    - Hallstrom, Per
+    - Hallström, Per August Leonard
+    birthdate: 1866
+    deathdate: 1960
+    gutenberg_agent_id: '44908'
+    url: http://www.gutenberg.org/2009/agents/44908
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Per_Hallstr%C3%B6m
+    - https://sv.wikipedia.org/wiki/Per_Hallstr%C3%B6m
+description: ''
+gutenberg_issued: '2020-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62733'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+- !lcsh 'Swedish drama -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Kirsti -- Minia -- Laodamia -- Härkä.
+title: 'Kirsti y.m. kertomuksia
+
+  Kokoelmasta "De fyra elementerna"'
+url: http://www.gutenberg.org/ebooks/62733
